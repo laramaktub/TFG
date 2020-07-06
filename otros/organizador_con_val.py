@@ -1,8 +1,8 @@
-#vamos a coger los paths con etiqueta, hacer un pequeño barajeo y asignar arbitrariamente un 30%
-#a la parte de test, con el 70% restante a entrenamiento. Para ello nos ayudaremos de la
+#vamos a coger los paths con etiqueta, hacer un pequeño barajeo y asignar arbitrariamente un 10%
+#a la parte de test, con el 90% restante a entrenamiento. Para ello nos ayudaremos de la
 #librería de data science sklearn
 #Toma como ENTRADA el train generado con el 100% de las imagenes con organizador.py
-#Como salidas da un train con un 70% del train original y un val con el 30% restante
+#Como salidas da un train con un 90% del train original y un val con el 10% restante
 import numpy as np
 from sklearn.model_selection import train_test_split
 #Con esto generamos las entradas del metodo de sklearn:
