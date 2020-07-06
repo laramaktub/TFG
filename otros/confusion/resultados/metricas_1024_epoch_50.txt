@@ -1,0 +1,20 @@
+Top1 accuracy: 95.4 %
+Top2 accuracy: 97.4 %
+Top3 accuracy: 99.0 %
+Top4 accuracy: 99.5 %
+Top5 accuracy: 99.5 %
+
+Micro recall: 95.4 %
+Macro recall: 81.4 %
+Macro recall (no labels): 95.2 %
+Weighted recall: 95.4 %
+
+Micro precision: 95.4 %
+Macro precision: 80.0 %
+Macro precision (no labels): 93.5 %
+Weighted precision: 95.5 %
+
+Micro F1 score: 95.4 %
+Macro F1 score: 80.3 %
+Macro F1 score (no labels): 93.9 %
+Weighted F1 score: 95.0 %
